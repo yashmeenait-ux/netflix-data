@@ -1,0 +1,7 @@
+kpi,value,definition
+Total Titles,6232.0,Number of unique titles in the catalog
+Movies,4263.0,Titles classified as Movie
+TV Shows,1969.0,Titles classified as TV Show
+Countries,113.0,Distinct country labels represented
+Categories,42.0,Distinct genre/category labels
+Average Movie Duration (min),99.12,Average duration for movies with duration data
